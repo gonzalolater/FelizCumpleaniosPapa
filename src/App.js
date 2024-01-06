@@ -173,7 +173,7 @@ const FelizCumpleaños = () => {
       <div>
       <>
            <footer style={footerStyle}>
-            <h2>Creada 05/01/2024 por tu hijo Gonzalo Daniel Aguilar</h2>
+            <h2>Creada 06/01/2024 por tu hijo Gonzalo Daniel Aguilar</h2>
         </footer>
       </>
     </div>
