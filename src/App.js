@@ -178,7 +178,6 @@ const FelizCumpleaños = () => {
       </>
     </div>
 );
-            {/* clg */}
     </div>
  );
 };
